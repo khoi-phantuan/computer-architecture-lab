@@ -21,4 +21,4 @@ This is part of my journey to learn how to use GitHub more professionally, to he
 - [ ] Lab 5
 - [ ] Lab 6
 
-<!-- Sau này nhớ tìm hiểu để link Lab vào file/folder tương ứng, ví dụ: - [ ] [Lab 1](./Lab1/README.md) -->
+<!-- Sau này nhớ tìm hiểu để link Lab vào file/folder tương ứng, ví dụ: - - [ ] [Lab 1](./Lab1/) -->
