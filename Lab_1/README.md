@@ -1,0 +1,17 @@
+# Lab 1 — Giới thiệu phần mềm MARS và lập trình hợp ngữ MIPS
+
+*đang cập nhật...*
+
+<!--
+
+## Mục tiêu lab
+
+## Mình đã làm gì?
+
+## Khó khăn và cách giải quyết
+
+## Mình đã học được gì?
+
+## (tùy chọn) Hướng phát triển thêm
+
+-->
