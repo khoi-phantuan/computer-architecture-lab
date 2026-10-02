@@ -3,7 +3,7 @@
 *An English version will be added soon!*
 
 ## Về repo này
-Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thực hành Kiến trúc máy tính** mà mình đã học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học.  
+Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thực hành Kiến trúc máy tính** mà mình học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học.  
 
 ---
 
@@ -16,6 +16,14 @@
 - [ ] [Lab 6 — Mô phỏng thực thi lệnh](Lab_6/)
 
 *nội dung các lab sau sẽ được cập nhật theo thời gian...*
+
+---
+
+## Môi trường & Công cụ
+- **Hệ điều hành**: Windows 11
+- **Phần mềm mô phỏng**: [MARS 4.5](https://github.com/dpetersanderson/MARS/) (MIPS Assembler and Runtime Simulator). Đây là bản phát hành cuối cùng, ra mắt tháng 8/2014.
+- **Java**: MARS là chương trình Java nên cần có Java để chạy. Mình dùng Eclipse Temurin JRE 21 (LTS) từ [Adoptium](https://adoptium.net/).
+- **Soạn thảo code**: trình soạn thảo có sẵn trong MARS. Các bài lab sẽ được lưu dưới dạng file `.asm`.
 
 ---
 
