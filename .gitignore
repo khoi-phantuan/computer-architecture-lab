@@ -1,0 +1,13 @@
+# File jar cài đặt MARS (bản cài, không phải bài làm)
+Mars*.jar
+
+# File xuất ra khi dùng File > Dump Memory (nếu có)
+*.dump
+
+# Rác của hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cấu hình editor
+.vscode/
