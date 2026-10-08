@@ -12,7 +12,7 @@ Mình thực hiện các bài thực hành này cá nhân theo tài liệu hư�
 ---
 
 ## Danh sách lab
-- ✅ [Lab 1 — Giới thiệu phần mềm MARS và lập trình hợp ngữ MIPS](Lab_1/)
+- ✅ [Lab 1 — Giới thiệu phần mềm MARS và lập trình hợp ngữ MIPS](Lab_1/) *(02/10 - 08/10)*
 - ⬜ [Lab 2 — Giải quyết bài toán với hợp ngữ MIPS](Lab_2/)
 - ⬜ [Lab 3 — Các cấu trúc điều khiển](Lab_3/)
 - ⬜ [Lab 4 — Con trỏ và truy xuất bộ nhớ](Lab_4/)
